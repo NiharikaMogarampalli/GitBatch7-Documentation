@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Androi app development'
+project = 'Android app development'
 copyright = '2020, Niharika'
 author = 'Niharika'
 
